@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 28 08:42:18 2023
-
-@author: morev
-"""
-
 import cv2
 import mediapipe as mp
 import pyautogui
